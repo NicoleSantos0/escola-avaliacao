@@ -25,7 +25,7 @@ Sistema web full-stack para controle de turmas e atividades de professores, perm
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/DahraFagionato/vpsescola.git
+   git clone https://github.com/NicoleSantos0/escola-avaliacao.git
    cd vpsescola
    ```
 
